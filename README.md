@@ -12,9 +12,9 @@ This repository provides a Graph Neural Network (GNN) demonstration that runs on
 ## Environment Requirements
 
 ### Recommended Setup
-| 组件 | 版本要求                 |
-|------|----------------------|
-| Python | 3.11.9               |
+| Component | Version           |
+|------|-------------------|
+| Python | 3.11.9            |
 | PyTorch | 2.6.0 (CUDA 12.4) |
 
 ## Cite
